@@ -56,8 +56,8 @@ RUN mkdir -p /usr/local/lib/R/site-library \
 #WORKDIR /home/bluedata
 #USER bluedata
 
-COPY run.sh /home/bluedata/
+COPY start_dss.sh /home/bluedata/
 
 EXPOSE $DSS_PORT 22
 
-CMD [ "su", "bluedata", "-c", "/home/bluedata/run.sh" ]
+ENTRYPOINT [ "/home/bluedata/start_dss.sh" ]

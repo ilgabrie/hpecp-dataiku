@@ -1,9 +1,9 @@
 {
     "name": "T-Dataiku",
     "description": "Dataiku by T",
-    "version": "0.2",
+    "version": "0.10",
     "status": "Completed",
     "status_msg": "Completed",
-    "update_time": 1616403887.1085002,
-    "binary": "deliverables/bdcatalog-centos7-t-dataiku-0.2.bin"
+    "update_time": 1616423171.673783,
+    "binary": "deliverables/bdcatalog-centos7-t-dataiku-0.10.bin"
 }

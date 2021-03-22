@@ -2,7 +2,7 @@
   "catalog": {
     "name": "T-Dataiku",
     "description": "Dataiku by T",
-    "version": "0.2",
+    "version": "0.10",
     "distroid": "t-dataiku",
     "categories": [
       "Data Science"
@@ -67,7 +67,7 @@
   "image": {
     "build": {
       "basedir": "image",
-      "repotag": "test/dataiku-t:0.2",
+      "repotag": "test/dataiku-t:0.10",
       "os": "centos7"
     }
   }
