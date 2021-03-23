@@ -1,10 +1,10 @@
 # Overview
 
-{description}
+Dataiku enables to create, share, and reuse applications that leverage data and machine learning to extend and automate decision making.
 
-## What is {name}?
+## What is DataIKU DSS?
 
-    <Explain details related to the App, like App-definition, where it is currently used, etc.>
+    Dataiku was built to help AI scale safely across all dimensions within an organization: data, number of applications, number of employees leveraging AI. Dataiku provides a way to deploy AI safely and effectively.
 
 # Details:
 
