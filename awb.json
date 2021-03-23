@@ -2,24 +2,13 @@
   "catalog": {
     "name": "T-Dataiku",
     "description": "Dataiku by T",
-    "version": "0.10",
+    "version": "1.1",
     "distroid": "t-dataiku",
     "categories": [
       "Data Science"
     ]
   },
   "services": [
-    {
-      "srvcid": "ssh",
-      "name": "SSH",
-      "port": "22",
-      "scheme": "",
-      "isdash": false,
-      "path": "",
-      "sysctl": "",
-      "authtoken": false,
-      "loadbalanced": false
-    },
     {
       "srvcid": "dataiku-web",
       "name": "DataIKU-web",
@@ -49,7 +38,6 @@
       "type": "default",
       "role_services": {
         "DSS-server": [
-          "SSH",
           "DataIKU-web"
         ]
       }
@@ -67,7 +55,7 @@
   "image": {
     "build": {
       "basedir": "image",
-      "repotag": "test/dataiku-t:0.10",
+      "repotag": "test/dataiku-t:1.1",
       "os": "centos7"
     }
   }
