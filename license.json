@@ -1,0 +1,20 @@
+{
+  "content": {
+    "licensee": {
+      "email": "gabriel.illes@t-systems.com",
+      "company": "T-Systems Int.",
+      "name": "Gabriel Illes"
+    },
+    "dssMode": "ON_PREMISE_DISCONNECTED",
+    "instanceId": "gyamcmzq",
+    "licenseKind": "COMMUNITY",
+    "licenseId": "MQOz4gnZjaH7itWX",
+    "properties": {
+      "automationFeaturesVersion": "2018-1"
+    },
+    "communityEdition": "true"
+  },
+  "r1Sig": "DX9JvuxeNT7S3d2lOroqE4cAbc8w38kVlLTJGxdzEbTOlbPHZt7arX1jcYpBVidZMjGKZK51r0R8DIf7i5Mfc2SWwoER7SfsidkSoPknRGYBkMECc/We/61hiTzJpxRaAFo5VLQgfrVHzMPLg1RBdE0enTFrgwEnoyDmTfEoiiE\u003d",
+  "r1Pub": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqyiqepcWLOnxAX+nuRvTeapLJ3sAWJ0DCtJjrraYnrTSwbVZJ5Xu5ZPukb99mxq45z3jux6ljlmdMlo0/hRwKLHEIjzK7B+XGSJYBcSfcUEe8ENcHV7ZW5PSpxYWWq2h+aA/xpsA3vvM1DWxdgSUErnY2kaZe2X2nStQHlpwBmwIDAQAB",
+  "r1PubSig": "OG7+Ke0UY+poOjCVj43krxo5uqHZ/Itrh27rIwlRhIzBsWvxjTGThDDaaNhwxTwDCjenX5rdCkYqrauD0ztE2Y7iBDSgO7PkzgVW+KFdRrYM+zsEr7nsGfhgdDVQnCUetD4kOxbaqCl7LDo0DXaT+bZGdiNjyiq3ByslIEA5QQ8\u003d"
+}
