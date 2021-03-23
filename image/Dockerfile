@@ -53,7 +53,7 @@ RUN mkdir -p /usr/local/lib/R/site-library \
             '/usr/local/lib/R/site-library', \
             repos='https://cloud.r-project.org')"
 
-COPY start_dss.sh /home/bluedata/
+COPY start_dss.sh license.json /home/bluedata/
 
 EXPOSE $DSS_PORT
 
