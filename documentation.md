@@ -1,6 +1,6 @@
 # Overview
 
-Dataiku enables to create, share, and reuse applications that leverage data and machine learning to extend and automate decision making.
+In this image, the user can access Dataiku DSS.
 
 ## What is DataIKU DSS?
 
@@ -14,19 +14,18 @@ Dataiku enables to create, share, and reuse applications that leverage data and 
     DistroId   : {distroid}
     Version    : {version}
 
-    Cluster Type:
-    Software Included:
-    Notebook access:
-    Systemctl service names and commands:
-    OS:
+    Cluster Type: Data science
+    Software Included: Dataiku DSS 9.0.0
+    Dataiku access: To access Dataiku navigate to <IP_Address>:Port from the Cluster UI. It will open up a login page, provide password and you will be logged in.
+    OS: Centos 7
 
 ## Testcases:
 
-    <Sample testcases or examples related to the app>
+    https://www.dataiku.com/learn/portals/tutorials/
 
 ## Prerequisites:
 
-    <List of pre-requisites for the User Persona to create the cluster with this app>
+    The user should have prior experience working with the App. Prior Knowledge working with EPIC. Basic understanding of Docker, Java and Data ingestion for running testcases.
 
 ## Release notes:
 
