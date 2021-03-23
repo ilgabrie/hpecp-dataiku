@@ -1,6 +1,6 @@
 # Overview
 
-In this image, the user can access Dataiku DSS.
+In this image, the user can access Dataiku DSS. Image created by: T-Systems Int. Big Data Team.
 
 ## What is DataIKU DSS?
 
