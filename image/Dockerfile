@@ -52,12 +52,9 @@ RUN mkdir -p /usr/local/lib/R/site-library \
             'rmarkdown', 'base64enc', 'filelock'), \
             '/usr/local/lib/R/site-library', \
             repos='https://cloud.r-project.org')"
-# Entry point
-#WORKDIR /home/bluedata
-#USER bluedata
 
 COPY start_dss.sh /home/bluedata/
 
-EXPOSE $DSS_PORT 22
+EXPOSE $DSS_PORT
 
-ENTRYPOINT [ "/home/bluedata/start_dss.sh" ]
+CMD [ "/bin/su", "bluedata", "-c", "/home/bluedata/start_dss.sh" ]
