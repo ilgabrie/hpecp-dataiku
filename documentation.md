@@ -5,8 +5,9 @@ In this image, the user can access Dataiku DSS.
 ## What is DataIKU DSS?
 
     Dataiku was built to help AI scale safely across all dimensions within an organization: data, number of applications, number of employees leveraging AI. Dataiku provides a way to deploy AI safely and effectively.
-
+    
 # Details:
+For more details about Dataiku DSS, refer to this link: https://www.dataiku.com/product/get-started/
 
 ## Application Image Details:
 
@@ -29,4 +30,4 @@ In this image, the user can access Dataiku DSS.
 
 ## Release notes:
 
-    <Any app related troubleshooting guide or Known-issues>
+    https://doc.dataiku.com/dss/latest/release_notes/index.html
